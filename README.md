@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on bug bounty tools
 - 🌱 I’m currently learning Django
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zi4sec&show_icons=true&theme=radical)
