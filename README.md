@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on bug bounty tools
+- 🔭 I’m currently working on bug bounty tools development
 - 🌱 I’m currently learning Django
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zi4sec&show_icons=true&theme=radical)
+![Zi4Sec's GitHub stats](https://github-readme-stats.vercel.app/api?username=zi4sec&show_icons=true&theme=radical)
+
+[![Zi4Sec's GitHub stats](https://github-readme-stats.vercel.app/api?username=zi4sec)](https://github.com/zi4sec/github-readme-stats)
